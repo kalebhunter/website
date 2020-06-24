@@ -1,1 +1,1 @@
-https://kalebhunter.github.io/website/Home.html
+https://kalebhunter.github.io/website/index.html
